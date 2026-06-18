@@ -2,8 +2,6 @@
 
 # Abhinav Prasad
 
-### Software Developer · Technology Analyst · Aspiring Management Trainee
-
 Information Technology Graduate (2026) building practical experience across software development, data analytics, and emerging technologies.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinavprasad1825/)
