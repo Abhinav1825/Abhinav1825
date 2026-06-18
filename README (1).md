@@ -150,8 +150,6 @@ Built end-to-end full-stack development skills by combining front-end design (HT
 ---
 
 ## Current Goals
-
-- Preparing for **CAT 2026** to pursue opportunities at the intersection of technology and management
 - Actively seeking roles as a **Software Developer, Technology Analyst, IT Analyst, Graduate Engineer Trainee, or Management Trainee**
 - Deepening expertise in data analytics and applied machine learning
 - Building a portfolio of projects that reflect both technical depth and business relevance
