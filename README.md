@@ -1,6 +1,6 @@
 <div align="center">
 
-# Abhinav Prasad
+# Hi, I'm Abhinav Prasad
 
 Information Technology Graduate (2026) building practical experience across software development, data analytics, and emerging technologies.
 
