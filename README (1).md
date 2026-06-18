@@ -16,7 +16,7 @@ Information Technology Graduate (2026) building practical experience across soft
 
 ## About Me
 
-I am a final-year Information Technology engineering student (graduating 2026) with a strong interest in software development, business operations, and data-driven decision making. My work spans full-stack web development, applied machine learning, and emerging technologies such as blockchain and IoT, with project experience that bridges technical implementation and real-world problem solving.
+Information Technology graduate with a strong interest in software development, business operations, and data-driven decision making. My work spans full-stack web development, applied machine learning, and emerging technologies such as blockchain and IoT, with project experience that bridges technical implementation and real-world problem solving.
 
 Alongside my technical work, I am preparing for **CAT 2026**, reflecting a long-term interest in combining engineering skills with business and management capability. I am currently exploring opportunities as a **Software Developer, Technology Analyst, IT Analyst, Operations Associate, or Management Trainee**, where I can apply both my technical foundation and analytical mindset.
 
